@@ -1,4 +1,5 @@
-### Hi there 👋
+![Github stats](https://github-readme-stats.vercel.app/api?username=dejancaric&theme=bluefy&show_icons=true&count_private=true&hide=issues,contribs&hide_border=true)  
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=dejancaric&theme=bluefy&hide_border=true&hide=asp,css)
 
 <!--
 **dejancaric/dejancaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
